@@ -7,7 +7,8 @@ import sqlite3
 from prettytable import PrettyTable
 from tabulate import tabulate
 
-from telegram import ParseMode
+#from telegram import ParseMode
+from telegram.constants import ParseMode
 #from telegram.ext import Updater
 #from telegram.ext import CommandHandler 
 
